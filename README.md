@@ -81,3 +81,6 @@ $ ./purefetch
 <li>Kubuntu ✅</li>
 <li>Xubuntu ✅</li>
 <li>Linux Mint ❌</li>
+<li>Kali Linux ❌</li>
+<li>Zorin OS ❌</li>
+<li>Manjaro ❌</li>
