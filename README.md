@@ -1,6 +1,7 @@
 <h1 align="center">Purefetch</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/memb3r/purefetch"> <img src="https://img.shields.io/github/languages/top/memb3r/purefetch?color=green">
+  <img src="https://img.shields.io/github/repo-size/memb3r/purefetch"> <img src="https://img.shields.io/github/languages/top/memb3r/purefetch?color=green"> <img src="https://img.shields.io/github/last-commit/memb3r/purefetch">
+
 </p>
 
 <h2>Preview: </h2>
