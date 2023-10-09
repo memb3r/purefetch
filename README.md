@@ -80,3 +80,4 @@ $ ./purefetch
 <li>Void Linux ❌</li>
 <li>Kubuntu ✅</li>
 <li>Xubuntu ✅</li>
+<li>Linux Mint ❌</li>
