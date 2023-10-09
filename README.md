@@ -68,7 +68,9 @@ $ ./purefetch
 <h2>Tested on:</h2>
 <li>Ubuntu ✅</li>
 <li>Debian ❌</li>
-<li>Fedora ❌</li>
+<li>Fedora ✅ (packages are not showing well)</li>
 <li>openSUSE ❌</li>
 <li>Arch ❌</li>
 <li>Void Linux ❌</li>
+<li>Kubuntu ✅</li>
+<li>Xubuntu ✅</li>
