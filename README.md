@@ -1,7 +1,6 @@
 <h1 align="center">Purefetch</h1>
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/memb3r/purefetch"> <img src="https://img.shields.io/github/languages/top/memb3r/purefetch?color=green"> <img src="https://img.shields.io/github/last-commit/memb3r/purefetch">
-
 </p>
 
 <h2>Preview: </h2>
@@ -17,6 +16,7 @@ $ sudo apt upgrade
 $ sudo apt install git python3-pip
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
+$ chmod +x install.sh
 $ ./install.sh
 ```
 
@@ -27,6 +27,7 @@ $ sudo dnf update
 $ sudo dnf install git python3-pip
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
+$ chmod +x install.sh
 $ ./install.sh
 ```
 
@@ -37,6 +38,7 @@ $ sudo zypper refresh
 $ sudo zypper install git python3-pip
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
+$ chmod +x install.sh
 $ ./install.sh
 ```
 
@@ -47,6 +49,7 @@ $ sudo pacman -Syu
 $ sudo pacman -S git python-pip
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
+$ chmod +x install.sh
 $ ./install.sh
 ```
 
@@ -56,10 +59,13 @@ $ ./install.sh
 $ sudo xbps-install -S git python3-pip
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
+$ chmod +x install.sh
 $ ./install.sh
 ```
 
 <h2>Usage:</h2>
+
+<p>Before opening, make sure you have the latest versions of <code>pip</code>, <code>python</code> installed.</p>
 
 ```bash
 $ ./purefetch
