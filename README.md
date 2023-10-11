@@ -84,3 +84,4 @@ $ ./purefetch
 <li>Kali Linux ❌</li>
 <li>Zorin OS ❌</li>
 <li>Manjaro ❌</li>
+<li>Alpine Linux ❌</li>
