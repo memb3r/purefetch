@@ -75,16 +75,16 @@ $ ./purefetch
 ```
 
 <h2>Tested on (1.1):</h2>
-<li>Ubuntu ❌</li>
+<li>Ubuntu ✅</li>
 <li>Debian ❌</li>
-<li>Fedora ❌</li>
-<li>openSUSE ❌</li>
+<li>Fedora ✅</li>
+<li>openSUSE ✅</li>
 <li>Arch ❌</li>
 <li>Void Linux ❌</li>
-<li>Kubuntu ❌</li>
-<li>Xubuntu ❌</li>
-<li>Linux Mint ❌</li>
+<li>Kubuntu ✅</li>
+<li>Xubuntu ✅</li>
+<li>Linux Mint ✅</li>
 <li>Kali Linux ❌</li>
-<li>Zorin OS ❌</li>
-<li>Manjaro ❌</li>
+<li>Zorin OS ✅</li>
+<li>Manjaro ✅</li>
 <li>Alpine Linux ❌</li>
