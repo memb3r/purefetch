@@ -1,4 +1,4 @@
-<h1 align="center">Purefetch 1.1</h1>
+<h1 align="center">Purefetch <sup>1.1</sup></h1>
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/memb3r/purefetch"> <img src="https://img.shields.io/github/languages/top/memb3r/purefetch?color=green"> <img src="https://img.shields.io/github/last-commit/memb3r/purefetch">
 </p>
@@ -75,17 +75,9 @@ $ ./purefetch
 ```
 
 <h2>Working on (1.1):</h2>
-<li>Ubuntu ✅</li>
-<li>Debian ❔</li>
-<li>Fedora ✅</li>
-<li>openSUSE ✅</li>
-<li>Arch ❔</li>
-<li>Void Linux ✅ (but with bugs)</li>
-<li>Kubuntu ✅</li>
-<li>Xubuntu ✅</li>
-<li>Linux Mint ✅</li>
-<li>Kali Linux ❔</li>
-<li>Zorin OS ✅</li>
-<li>Manjaro ✅</li>
-<li>Alpine Linux ❔</li>
-<li>Windows ❌</li>
+<li><b>Debian and Debian-based</b> (Ubuntu, Zorin OS, Kali Linux, Linux Mint, etc.) ✅</li>
+<li><b>Fedora and Fedora-based</b> (openSUSE, CentOS, Oracle Linux, Red Hat, etc.) ✅</li>
+<li><b>Arch and Arch-based</b> (Manjaro, SteamOS, etc.)❔</li>
+<li><b>Void Linux</b> ✅ <i>(but with bugs)</i></li>
+<li><b>Alpine Linux</b> ❔</li>
+<li><b>Windows</b> ❌</li>
