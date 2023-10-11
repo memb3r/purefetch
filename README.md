@@ -80,7 +80,7 @@ $ ./purefetch
 <li>Fedora ✅</li>
 <li>openSUSE ✅</li>
 <li>Arch ❔</li>
-<li>Void Linux ❔</li>
+<li>Void Linux ✅ (but with bugs)</li>
 <li>Kubuntu ✅</li>
 <li>Xubuntu ✅</li>
 <li>Linux Mint ✅</li>
