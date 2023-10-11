@@ -4,7 +4,7 @@
 </p>
 
 <h2>Preview: </h2>
-<img src="screen.png">
+<p align="center"><img src="window.png"></p>
 
 <h2>Installation: </h2>
 
