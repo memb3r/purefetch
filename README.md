@@ -11,9 +11,7 @@
 <p>For Ubuntu, Debian (apt):</p>
 
 ```bash
-$ sudo apt update
-$ sudo apt upgrade
-$ sudo apt install git python3-pip
+$ sudo apt install git
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
 $ chmod +x install.sh
@@ -23,8 +21,7 @@ $ ./install.sh
 <p>For Fedora (dnf):</p>
 
 ```bash
-$ sudo dnf update
-$ sudo dnf install git python3-pip
+$ sudo dnf install git
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
 $ chmod +x install.sh
@@ -34,8 +31,7 @@ $ ./install.sh
 <p>For openSUSE (zypper):</p>
 
 ```bash
-$ sudo zypper refresh
-$ sudo zypper install git python3-pip
+$ sudo zypper install git
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
 $ chmod +x install.sh
@@ -45,8 +41,7 @@ $ ./install.sh
 <p>For Arch (pacman):</p>
 
 ```bash
-$ sudo pacman -Syu
-$ sudo pacman -S git python-pip
+$ sudo pacman -S git
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
 $ chmod +x install.sh
@@ -56,7 +51,17 @@ $ ./install.sh
 <p>For Void Linux (xbps):</p>
 
 ```bash
-$ sudo xbps-install -S git python3-pip
+$ sudo xbps-install -S git
+$ git clone https://github.com/memb3r/purefetch
+$ cd purefetch
+$ chmod +x install.sh
+$ ./install.sh
+```
+
+<p>For Alpine Linux (apk):</p>
+
+```bash
+$ sudo apk add git
 $ git clone https://github.com/memb3r/purefetch
 $ cd purefetch
 $ chmod +x install.sh
@@ -65,21 +70,19 @@ $ ./install.sh
 
 <h2>Usage:</h2>
 
-<p>Before opening, make sure you have the latest versions of <code>pip</code>, <code>python</code> installed.</p>
-
 ```bash
 $ ./purefetch
 ```
 
-<h2>Tested on:</h2>
-<li>Ubuntu ✅</li>
+<h2>Tested on (1.1):</h2>
+<li>Ubuntu ❌</li>
 <li>Debian ❌</li>
-<li>Fedora ✅ (packages are not showing well)</li>
+<li>Fedora ❌</li>
 <li>openSUSE ❌</li>
 <li>Arch ❌</li>
 <li>Void Linux ❌</li>
-<li>Kubuntu ✅</li>
-<li>Xubuntu ✅</li>
+<li>Kubuntu ❌</li>
+<li>Xubuntu ❌</li>
 <li>Linux Mint ❌</li>
 <li>Kali Linux ❌</li>
 <li>Zorin OS ❌</li>
