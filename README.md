@@ -74,6 +74,16 @@ $ ./install.sh
 $ ./purefetch
 ```
 
+<h2>Want to make a remix? Read this:</h2>
+
+<p>1. Change "purefetch" to something else.</p>
+<p>2. Change ASCII art.</p>
+<p>3. In README file, in the end, enter this text:.</p>
+
+```bash
+Original Purefetch created by https://github.com/memb3r
+```
+
 <h2>Working on (1.1):</h2>
 <li><b>Debian and Debian-based</b> (Ubuntu, Zorin OS, Kali Linux, Linux Mint, etc.) ✅</li>
 <li><b>Fedora and Fedora-based</b> (openSUSE, CentOS, Oracle Linux, Red Hat, etc.) ✅</li>
@@ -81,3 +91,9 @@ $ ./purefetch
 <li><b>Void Linux</b> ✅ <i>(but with bugs)</i></li>
 <li><b>Alpine Linux</b> ❔</li>
 <li><b>Windows</b> ❌</li>
+
+<br>
+<br>
+<br>
+
+<p><i>This project was inspired by neofetch and does not have any license.</i></p>
