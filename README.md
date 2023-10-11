@@ -88,3 +88,4 @@ $ ./purefetch
 <li>Zorin OS ✅</li>
 <li>Manjaro ✅</li>
 <li>Alpine Linux ❔</li>
+<li>Windows ❌</li>
