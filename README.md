@@ -74,17 +74,17 @@ $ ./install.sh
 $ ./purefetch
 ```
 
-<h2>Tested on (1.1):</h2>
+<h2>Working on (1.1):</h2>
 <li>Ubuntu ✅</li>
-<li>Debian ❌</li>
+<li>Debian ❔</li>
 <li>Fedora ✅</li>
 <li>openSUSE ✅</li>
-<li>Arch ❌</li>
-<li>Void Linux ❌</li>
+<li>Arch ❔</li>
+<li>Void Linux ❔</li>
 <li>Kubuntu ✅</li>
 <li>Xubuntu ✅</li>
 <li>Linux Mint ✅</li>
-<li>Kali Linux ❌</li>
+<li>Kali Linux ❔</li>
 <li>Zorin OS ✅</li>
 <li>Manjaro ✅</li>
-<li>Alpine Linux ❌</li>
+<li>Alpine Linux ❔</li>
